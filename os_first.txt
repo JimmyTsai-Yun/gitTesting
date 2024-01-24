@@ -2,3 +2,4 @@ os_first
 after ssh connect
 change git config name and email
 chang name to mac
+change name to "Jimmy"
