@@ -1,2 +1,3 @@
 os_first
 after ssh connect
+change git config name and email
